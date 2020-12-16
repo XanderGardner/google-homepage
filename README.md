@@ -1,0 +1,1 @@
+This project demonstrates using HTML and CSS to create a basic web page design
